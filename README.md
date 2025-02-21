@@ -1,17 +1,17 @@
 # Image-Processing
 
-### **1. Basic of Images**
+## **1. Basic of Images**
 - 1.1 Pixel Representation (0 - 255)
 - 1.2 Color models (RGB, GRAY, CMYK, HSV, LAB(CIELAB))
 - 1.3 Image formats (JPEG(.jpg), PNG(.png), GIF(.gif), BMP(.bmp), TIFF(.tiff), WebP(.webp))
 
-### **2. Image Acquisition**
+## **2. Image Acquisition**
 - 2.1 Camera capture (Digital Camera, Webcam, Mobile Camera)
 - 2.2 Scanning (Resolution, Sharpening)
 - 2.3 Medical Imaging (MRI, CT, X-Ray, Ultrasound)
 - 2.4 Image Quality (Lighting, Focus, Noise & Artifacts)
 
-### **3. Image Preprocessing**
+## **3. Image Preprocessing**
 - 3.1 Read Image
 - 3.2 Resize Image
 - 3.3 Rotate Image
@@ -23,7 +23,7 @@
 - 3.9 Gamma Correction
 - 3.10 Image Normalization & Standardization (Mean Subtraction, Min-Max Scaling)
 
-### **4. Image Filtering and Enhancement**
+## **4. Image Filtering and Enhancement**
 - **4.1 Smoothing Filters**
   - 4.1.1 Mean (Average) Filter
   - 4.1.2 Gaussian Blur Filter
@@ -53,7 +53,7 @@
   - 4.7.1 Erosion
   - 4.7.2 Dilation
 
-### **5. Image Segmentation**
+## **5. Image Segmentation**
 - 5.1 Thresholding (Otsu's Method)
 - 5.2 Clustering-Based Segmentation (K-Means, Mean Shift)
 - 5.3 Edge-Based Segmentation
@@ -64,8 +64,8 @@
 - 5.8 Superpixel-Based Segmentation (SLIC, Felzenszwalb)
 - 5.9 Neural Networks-Based Segmentation (U-Net, Mask R-CNN)
 
-### **6. Image Feature Extraction**
-- #### **6.1 Low Level (Extracted directly from the pixel values)**
+## **6. Image Feature Extraction**
+- ### **6.1 Low Level (Extracted directly from the pixel values)**
   - **6.1.1. Edge Features (Detecting boundaries of objects)**
     - 6.1.1.1 Sobel Operator
     - 6.1.1.2 Prewitt Operator
@@ -83,7 +83,7 @@
     - 6.1.4.1 RGB Histograms
     - 6.1.4.2 HSV Color Features
     - 6.1.4.3 Color Moments (Mean, Standard Deviation, Skewness, etc.)
-- #### **6.2 High Level (Used for Deep Learning and AI models)**
+- ### **6.2 High Level (Used for Deep Learning and AI models)**
   - **6.2.1. Keypoint Features (Detecting unique keypoints in an image)**
     - 6.2.1.1 SIFT (Scale-Invariant Feature Transform)
     - 6.2.1.2 SURF (Speeded Up Robust Features)
@@ -95,7 +95,7 @@
     - 6.2.2.3 Bag of Visual Words (BoVW)
     - 6.2.2.4 Scale-Space Representation
 
-### **7. Image Recognition and Classification**
+## **7. Image Recognition and Classification**
 - 7.1 Template Matching
 - 7.2 Feature-Based Matching
 - 7.3 Machine Learning-Based Classification (SVM, KNN, Decision Trees)
@@ -105,7 +105,7 @@
 - 7.7 Image Generation (GANs, Diffusion Models)
 - 7.8 Self-Supervised Learning in Image Processing
 
-### **8. Advanced Image Processing**
+## **8. Advanced Image Processing**
 - 8.1 Image Restoration (Deblurring, Inpainting)
 - 8.2 Image Compression (JPEG, PNG, Huffman Encoding)
 - 8.3 Image Watermarking
