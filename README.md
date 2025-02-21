@@ -32,13 +32,13 @@
   - 4.2.1 Laplacian Filter (Edge Enhancement)
   - 4.2.2 Unsharp Masking
 - **4.3. Edge Detection Filters**
-  - 4.3.1 Canny (Most effective for edge detection)
-  - 4.3.2 Sobel (Detects edges in X or Y direction)
-  - 4.3.3 Roberts
-  - 4.3.4 Prewitt
-  - 4.3.5 Laplacian
-  - 4.3.6 LineHough
-  - 4.3.7 Hough Transform (Line, Circle Detection)
+  - 4.3.1 Canny (Most effective for edge detection, reduces noise and detects strong edges)
+  - 4.3.2 Sobel (Detects edges in X or Y direction using gradient computation)
+  - 4.3.3 Roberts (Fastest edge detection, works well for low-resolution images)
+  - 4.3.4 Prewitt (Similar to Sobel, emphasizes horizontal and vertical edges)
+  - 4.3.5 Laplacian (Detects edges using second-order derivatives, sensitive to noise)
+  - 4.3.6 LineHough (Detects straight lines using the Hough Transform)
+  - 4.3.7 Hough Transform (Detects lines and circles by mapping points to parameter space)
 - **4.4 Frequency Domain Filters**
   - 4.4.1 High-Pass Filters (HPF)
   - 4.4.2 Low-Pass Filters (LPF)
