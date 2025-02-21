@@ -65,7 +65,7 @@
 - 5.9 Neural Networks-Based Segmentation (U-Net, Mask R-CNN)
 
 ### **6. Image Feature Extraction**
-- **6.1 Low Level (Extracted directly from the pixel values)**
+- # **6.1 Low Level (Extracted directly from the pixel values)**
   - **6.1.1. Edge Features (Detecting boundaries of objects)**
     - 6.1.1.1 Sobel Operator
     - 6.1.1.2 Prewitt Operator
@@ -83,7 +83,7 @@
     - 6.1.4.1 RGB Histograms
     - 6.1.4.2 HSV Color Features
     - 6.1.4.3 Color Moments (Mean, Standard Deviation, Skewness, etc.)
-- **6.2 High Level (Used for Deep Learning and AI models)**
+- # **6.2 High Level (Used for Deep Learning and AI models)**
   - **6.2.1. Keypoint Features (Detecting unique keypoints in an image)**
     - 6.2.1.1 SIFT (Scale-Invariant Feature Transform)
     - 6.2.1.2 SURF (Speeded Up Robust Features)
