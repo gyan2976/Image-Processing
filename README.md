@@ -23,35 +23,35 @@
 - 3.9 Gamma Correction
 - 3.10 Image Normalization & Standardization (Mean Subtraction, Min-Max Scaling)
 
-5. Image Filtering and Enhancement
-	4.1 Smoothing Filters
-		4.1.1 Mean (Average) Filter
-		4.1.2 Gaussian Blur Filter
-		4.1.3 Median Filter
-	4.2 Sharpening Filters
-		4.2.1 Laplacian Filter (Edge Enhancement)
-		4.2.2 Unsharp Masking
-	4.3. Edge Detection Filters
-		4.3.1 Canny (Most effective for edge detection)
-		4.3.2 Sobel (Detects edges in X or Y direction)
-		4.3.3 Roberts
-		4.3.4 Prewitt
-		4.3.5 Laplacian
-		4.3.6 LineHough
-		4.3.7 Hough Transform (Line, Circle Detection)
-	4.4 Frequency Domain Filters
-		4.4.1 High-Pass Filters (HPF)
-		4.4.2 Low-Pass Filters (LPF)
-	4.5 Non-Linear Filters
-		4.5.1 Bilateral Filter (Preserves Edges)
-	4.6. Noise Filtering
-		4.6.1 Gaussian Noise Reduction
-		4.6.2 Impulse (Salt & Pepper) Noise Removal
-		4.6.3 Poison Noise Reduction
-		4.6.4 Speckle Noise Reduction
-	4.7. Morphological Filters (Binary Images)
-		4.7.1 Erosion
-		4.7.2 Dilation
+### **4. Image Filtering and Enhancement**
+- **4.1 Smoothing Filters**
+  - 4.1.1 Mean (Average) Filter
+  - 4.1.2 Gaussian Blur Filter
+  - 4.1.3 Median Filter
+- **4.2 Sharpening Filters**
+  - 4.2.1 Laplacian Filter (Edge Enhancement)
+  - 4.2.2 Unsharp Masking
+- **4.3. Edge Detection Filters**
+  - 4.3.1 Canny (Most effective for edge detection)
+  - 4.3.2 Sobel (Detects edges in X or Y direction)
+  - 4.3.3 Roberts
+  - 4.3.4 Prewitt
+  - 4.3.5 Laplacian
+  - 4.3.6 LineHough
+  - 4.3.7 Hough Transform (Line, Circle Detection)
+- **4.4 Frequency Domain Filters**
+  - 4.4.1 High-Pass Filters (HPF)
+  - 4.4.2 Low-Pass Filters (LPF)
+- **4.5 Non-Linear Filters**
+  - 4.5.1 Bilateral Filter (Preserves Edges)
+- **4.6. Noise Filtering**
+  - 4.6.1 Gaussian Noise Reduction
+  - 4.6.2 Impulse (Salt & Pepper) Noise Removal
+  - 4.6.3 Poison Noise Reduction
+  - 4.6.4 Speckle Noise Reduction
+- **4.7. Morphological Filters (Binary Images)**
+  - 4.7.1 Erosion
+  - 4.7.2 Dilation
 
 6. Image Segmentation
 	5.1 Thresholding (Otsu's Method)
