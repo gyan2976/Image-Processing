@@ -75,15 +75,15 @@
     - 6.1.2.1 Gray Level Co-occurrence Matrix (GLCM)
     - 6.1.2.2 Local Binary Patterns (LBP)
     - 6.1.2.3 Gabor Filters
-		6.1.3. Shape Features (Extracting geometric properties)
-			6.1.3.1 Contours (OpenCV cv2.findContours())
-			6.1.3.2 Hu Moments
-			6.1.3.3 Hough Transform (for lines, circles, etc.)
-		6.1.4. Color Features (Analyzing intensity and color histograms)
-			6.1.4.1 RGB Histograms
-			6.1.4.2 HSV Color Features
-			6.1.4.3 Color Moments (Mean, Standard Deviation, Skewness, etc.)
-	6.2 High Level (Used for Deep Learning and AI models)
+  - **6.1.3. Shape Features (Extracting geometric properties)**
+    - 6.1.3.1 Contours (OpenCV cv2.findContours())
+    - 6.1.3.2 Hu Moments
+    - 6.1.3.3 Hough Transform (for lines, circles, etc.)
+  - **6.1.4. Color Features (Analyzing intensity and color histograms)**
+    - 6.1.4.1 RGB Histograms
+    - 6.1.4.2 HSV Color Features
+    - 6.1.4.3 Color Moments (Mean, Standard Deviation, Skewness, etc.)
+- **6.2 High Level (Used for Deep Learning and AI models)**
 		6.2.1. Keypoint Features (Detecting unique keypoints in an image)
 			6.2.1.1 SIFT (Scale-Invariant Feature Transform)
 			6.2.1.2 SURF (Speeded Up Robust Features)
