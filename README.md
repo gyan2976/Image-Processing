@@ -84,16 +84,16 @@
     - 6.1.4.2 HSV Color Features
     - 6.1.4.3 Color Moments (Mean, Standard Deviation, Skewness, etc.)
 - **6.2 High Level (Used for Deep Learning and AI models)**
-	- **6.2.1. Keypoint Features (Detecting unique keypoints in an image)**
-	  - 6.2.1.1 SIFT (Scale-Invariant Feature Transform)
-	  - 6.2.1.2 SURF (Speeded Up Robust Features)
-	  - 6.2.1.3 ORB (Oriented FAST and Rotated BRIEF)
-	  - 6.2.1.4 FAST (Features from Accelerated Segment Test)
-	- **6.2.2. Deep Learning-Based Features**
-  	  - 6.2.2.1 CNN Feature Maps (Extracted from Conv layers)
-    	  - 6.2.2.2 HOG (Histogram of Oriented Gradients, used in object detection)
-    	  - 6.2.2.3 Bag of Visual Words (BoVW)
-    	  - 6.2.2.4 Scale-Space Representation
+  - **6.2.1. Keypoint Features (Detecting unique keypoints in an image)**
+    - 6.2.1.1 SIFT (Scale-Invariant Feature Transform)
+    - 6.2.1.2 SURF (Speeded Up Robust Features)
+    - 6.2.1.3 ORB (Oriented FAST and Rotated BRIEF)
+    - 6.2.1.4 FAST (Features from Accelerated Segment Test)
+  - **6.2.2. Deep Learning-Based Features**
+    - 6.2.2.1 CNN Feature Maps (Extracted from Conv layers)
+    - 6.2.2.2 HOG (Histogram of Oriented Gradients, used in object detection)
+    - 6.2.2.3 Bag of Visual Words (BoVW)
+    - 6.2.2.4 Scale-Space Representation
 
 ### **7. Image Recognition and Classification**
 - 7.1 Template Matching
