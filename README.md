@@ -1,9 +1,9 @@
 # Image-Processing
 
-**1. Basic of Images**
-	- 1.1 Pixel Representation (0 - 255)
-	- 1.2 Color models (RGB, GRAY, CMYK, HSV, LAB(CIELAB))
-	- 1.3 Image formats (JPEG(.jpg), PNG(.png), GIF(.gif), BMP(.bmp), TIFF(.tiff), WebP(.webp))
+### 1. Basic of Images**
+- 1.1 Pixel Representation (0 - 255)
+- 1.2 Color models (RGB, GRAY, CMYK, HSV, LAB(CIELAB))
+- 1.3 Image formats (JPEG(.jpg), PNG(.png), GIF(.gif), BMP(.bmp), TIFF(.tiff), WebP(.webp))
 
 2. Image Acquisition
 	2.1 Camera capture (Digital Camera, Webcam, Mobile Camera)
