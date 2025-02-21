@@ -53,28 +53,28 @@
   - 4.7.1 Erosion
   - 4.7.2 Dilation
 
-6. Image Segmentation
-	5.1 Thresholding (Otsu's Method)
-	5.2 Clustering-Based Segmentation (K-Means, Mean Shift)
-	5.3 Edge-Based Segmentation
-	5.4 Region-Based Segmentation
-	5.5 Watershed Algorithm
-	5.6 Active Contours (Snakes)
-	5.7 Graph-Based Segmentation
-	5.8 Superpixel-Based Segmentation (SLIC, Felzenszwalb)
-	5.9 Neural Networks-Based Segmentation (U-Net, Mask R-CNN)
+### **5. Image Segmentation**
+- 5.1 Thresholding (Otsu's Method)
+- 5.2 Clustering-Based Segmentation (K-Means, Mean Shift)
+- 5.3 Edge-Based Segmentation
+- 5.4 Region-Based Segmentation
+- 5.5 Watershed Algorithm
+- 5.6 Active Contours (Snakes)
+- 5.7 Graph-Based Segmentation
+- 5.8 Superpixel-Based Segmentation (SLIC, Felzenszwalb)
+- 5.9 Neural Networks-Based Segmentation (U-Net, Mask R-CNN)
 
-7. Image Feature Extraction
-	6.1 Low Level (Extracted directly from the pixel values)
-		6.1.1. Edge Features (Detecting boundaries of objects)
-			6.1.1.1 Sobel Operator
-			6.1.1.2 Prewitt Operator
-			6.1.1.3 Canny Edge Detection
-			6.1.1.4 Laplacian of Gaussian (LoG)
-		6.1.2. Texture Features (Describing surface patterns)
-			6.1.2.1 Gray Level Co-occurrence Matrix (GLCM)
-			6.1.2.2 Local Binary Patterns (LBP)
-			6.1.2.3 Gabor Filters
+### **6. Image Feature Extraction**
+- **6.1 Low Level (Extracted directly from the pixel values)**
+  - **6.1.1. Edge Features (Detecting boundaries of objects)**
+    - 6.1.1.1 Sobel Operator
+    - 6.1.1.2 Prewitt Operator
+    - 6.1.1.3 Canny Edge Detection
+    - 6.1.1.4 Laplacian of Gaussian (LoG)
+  - **6.1.2. Texture Features (Describing surface patterns)**
+    - 6.1.2.1 Gray Level Co-occurrence Matrix (GLCM)
+    - 6.1.2.2 Local Binary Patterns (LBP)
+    - 6.1.2.3 Gabor Filters
 		6.1.3. Shape Features (Extracting geometric properties)
 			6.1.3.1 Contours (OpenCV cv2.findContours())
 			6.1.3.2 Hu Moments
